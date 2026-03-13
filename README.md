@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dhirendra7076/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Dhirendra7076/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dhirendra7076/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Dhirendra7076/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
